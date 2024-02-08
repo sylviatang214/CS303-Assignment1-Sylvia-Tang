@@ -1,0 +1,6 @@
+1. Enter number you want to search in an array for. The result should yield the number inputted and index it's found in the array. if input does
+not exist in the array, result will output a message that number does not exist in the array.
+2. Enter an index then a number you want to be replaced. The array will be modify with your chosen index and number. If input is invalid, error
+message is thrown and you can try again to enter a new input.
+3. Enter number to add to the end of the array. if invalid, error message will be printed and you can try again to enter a new input.
+4. Enter an index to replace with 0.
